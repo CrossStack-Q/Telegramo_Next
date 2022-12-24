@@ -1,0 +1,4 @@
+Not working
+
+GOOGLE_CLIENT_ID=570860535787-kthuj6ralakp6tg5lfnjbl0iq5eourgv.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
